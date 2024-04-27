@@ -1,0 +1,3 @@
+core i5 8400
+bbb
+ccc
